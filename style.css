@@ -118,7 +118,9 @@ section {
   justify-content: space-between;
   position: relative;
 }
-
+.main-btn1 {
+  padding-top: 1rem;
+}
 .main-content h4 {
   font-size: 1.6rem;
 }
